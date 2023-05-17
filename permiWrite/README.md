@@ -34,6 +34,6 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Contact
 
-For any inquiries or further information, please contact `Roshan J` at roshanjr643@gmail.com.
+For any inquiries or further information, please contact `Roshan J` at `roshanjr643@gmail.com`
 
 ---

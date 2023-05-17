@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012033507975",
+    "project_id": "thmarch-e711b",
+    "storage_bucket": "thmarch-e711b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012033507975:android:b602172534b348ba3a9e22",
+        "android_client_info": {
+          "package_name": "com.permiWrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012033507975-enkp5ria84ano0gn6kkdet4ir2fb2ueh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSEat6mtVNO8b5m-0316QBXXAJALGnOtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012033507975-enkp5ria84ano0gn6kkdet4ir2fb2ueh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
